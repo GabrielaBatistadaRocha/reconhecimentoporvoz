@@ -1,0 +1,30 @@
+body {
+    border-radius: 8px;
+    border-color: blueviolet;
+    border-style: groove;
+    background-color: rgba(153, 51, 153,0.3);
+    display: block;
+    align-content: center;
+    padding-left: 350px;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+.mensagem {
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+
+.box {
+    border: 2px solid var(--primary-color);
+    display: inline-block;
+    font-size: 4em;
+    padding: 10px;
+    margin: 20px;
+}
